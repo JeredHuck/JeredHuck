@@ -1,0 +1,4 @@
+-  Hi, I’m @JeredHuck
+-  I’m interested in anything software related, but mostly web dev and game dev
+-  I’m currently learning Angular, React, Javascript, Ruby on Rails, and .net
+-  Reach me at jeredhuck@gmail.com
