@@ -1,4 +1,4 @@
 -  Hi, I’m @JeredHuck
 -  I’m interested in anything software related, but mostly web and game development
--  I’m currently learning Angular, React, Javascript, Ruby on Rails, Lua, and .net
+-  I’m currently learning Angular, React, Javascript, Ruby on Rails, and Lua
 -  Reach me at jeredhuck@gmail.com
